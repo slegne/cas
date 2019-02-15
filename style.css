@@ -1354,9 +1354,9 @@ section.featured-places {
 
 .blog-post-thumb + .blog-post-thumb
 {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px double #efefef;
   padding-bottom: 25px;
-  margin: 15px 0 25px 0; 
+  margin: 15px 0 25px 0;
 }
 
 .blog-post-thumb:last-child
